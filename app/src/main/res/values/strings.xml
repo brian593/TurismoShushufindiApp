@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Turismo Shushufindi</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">QR</string>
+    <string name="title_notifications">Mapa</string>
+
+    <string name="button1">Guía Turística</string>
+    <string name="button2">Atractivos Naturales</string>
+    <string name="button3">Centro Gastronómicos</string>
+    <string name="button4">Hospedaje</string>
+
+</resources>
